@@ -1,4 +1,4 @@
-# Ex03 Time Table
+# Ex02 Time Table
 
 # Name: ragul M
 # AIM
